@@ -1,12 +1,29 @@
 .footer {
     background-color: #161a1d;
-    height: 100px;
+    height: 200px;
     color: white;
-    
-    
-    
 }
 
 .icon {
     font-size: x-large;
+}
+
+.rLogo {
+    width: 4rem;
+    
+}
+
+.contactTitle {
+    text-align: center;
+    margin: 1.5rem;
+}
+
+.contact {
+    text-align: center;
+    
+}
+
+.sig-container {
+    text-align: center;
+    margin-top: 4rem;
 }

@@ -1,13 +1,12 @@
 .family {
-  width: 36rem;
-  
+  width: 34rem;
 }
 
 .family_card {
   
   display: flex;
   flex-direction: column;
-  width: 38rem;
+  width: 36rem;
   height: 40rem;
   border: 1px solid #ececec;
   background-color: #003049;
@@ -17,11 +16,10 @@
   justify-content: center;
   margin: 50px;
   box-shadow: 0px 0px 50px black;
- 
 }
 
 .bio-container {
-  
+  text-shadow: 5px 5px 8px black;
   padding: 10rem;
 }
 
@@ -35,25 +33,37 @@
     
     display: flex;
     flex-direction: column;
-    width: 40rem;
-    height: 51rem;
+    width: 32rem;
+    height: 41rem;
     border: 1px solid #ececec;
     background-color: #003049;
     color: white;
     border-radius: 12px;
     align-items: center;
     justify-content: center;
-    
+    margin: 4rem;
     box-shadow: 0px 0px 50px black;
   }
 
   .certificate {
-    width: 38rem;
+    width: 30rem;
   }
 
   .mainBody {
-    background-color: #282c34;
+    background: rgba(40, 44, 52, 0.5);
   }
 
+  .bgImg {
+    background-size: cover;
+    
+  }
+
+
+
   
+
+
+
+
+
 
