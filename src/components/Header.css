@@ -3,10 +3,10 @@
 .header {
     background-color: #161a1d;
     height: 200px;
-    color: white;
+    
     margin: 0;
     padding: 0;
-    display: block;
+    
   }
 
 .title {
@@ -17,14 +17,20 @@
   align-items: center;
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 .subtitle {
   text-align: center;
-  
+  background-color: white;
   margin: 0;
   padding: 0;
-  line-height: .2;
+  color: black;
+  font-weight: 400;
+}
+
+.subtitle-container {
+  
 }
 
 .title-container {
