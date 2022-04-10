@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import PicCard from './components/PicCard';
 import CertCard from './components/CertCard';
+import PortfolioSection from './components/PortfolioSection';
 import Footer from './components/Footer';
 import background from "./images/black-background.jpg";
 import initFontAwesome from "./initFontAwesome";
@@ -17,6 +18,8 @@ function App() {
           <div className='mainBody'>
             <PicCard />
             <CertCard />
+            
+            <PortfolioSection />
             </div>
         </div>
       <Footer />

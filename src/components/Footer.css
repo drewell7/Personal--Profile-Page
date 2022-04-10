@@ -9,8 +9,8 @@
 }
 
 .rLogo {
-    width: 4rem;
-    
+    font-size: 20pt;
+    color: #61dafb;
 }
 
 .contactTitle {
@@ -25,5 +25,5 @@
 
 .sig-container {
     text-align: center;
-    margin-top: 4rem;
+    margin-top: 5rem;
 }

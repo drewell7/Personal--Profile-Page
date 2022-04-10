@@ -1,7 +1,6 @@
 import './Footer.css';
-import { FaGithub, FaLinkedin, FaFacebook, FaPhoneAlt, FaRegEnvelope } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaFacebook, FaPhoneAlt, FaRegEnvelope, FaReact } from 'react-icons/fa';
 import { MDBBtn } from 'mdb-react-ui-kit';
-import ReactLogo from '../../src/images/logo512.png';
 
 const Footer = () => {
     return (
@@ -32,7 +31,7 @@ const Footer = () => {
                     </div>
                     <div className='col'>
                         <div className='sig-container'>
-                            <p className='sig'>This website was created by Derek Ewell using React.js <img src={ReactLogo} className='rLogo' alt='The React logo' /></p>
+                            <p className='sig'>This website was created by Derek Ewell using React.js <FaReact className='rLogo' /></p>
                         </div>
                     </div>
                 </div>

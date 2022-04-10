@@ -1,13 +1,13 @@
 .family {
-  width: 34rem;
+  width: 25rem;
+  height: 30rem;
 }
 
 .family_card {
   
   display: flex;
-  flex-direction: column;
-  width: 36rem;
-  height: 40rem;
+  width: 26rem;
+  height: 31rem;
   border: 1px solid #ececec;
   background-color: #003049;
   color: white;
@@ -20,7 +20,7 @@
 
 .bio-container {
   text-shadow: 5px 5px 8px black;
-  padding: 10rem;
+  padding: 2rem;
 }
 
 .bio {
@@ -33,8 +33,8 @@
     
     display: flex;
     flex-direction: column;
-    width: 32rem;
-    height: 41rem;
+    width: 27rem;
+    height: 34rem;
     border: 1px solid #ececec;
     background-color: #003049;
     color: white;
@@ -46,7 +46,7 @@
   }
 
   .certificate {
-    width: 30rem;
+    width: 25rem;
   }
 
   .htmlcssjs {
@@ -59,18 +59,54 @@
   }
 
   .bgImg {
-    background-size: cover;
-    
+    background-size: fill;
   }
 
-  .logos {
+  .cssLogo {
+    font-size: 80pt;
+    color: #0B74B8;
+  }
+
+  .htmlLogo {
+    font-size: 80pt;
+    color: #E54D26;
+  }
+
+  .jsLogo {
     font-size: 80pt;
     color: #FFD93A;
   }
 
+  .bstrapLogo {
+    font-size: 80pt;
+    color: #8709FB;
+  }
 
+  .reactLogo {
+    font-size: 80pt;
+    color: #61dafb;
+  }
 
-  
+  .nodeLogo {
+    font-size: 80pt;
+    color: #3C873A;
+  }
+
+  .logos-container {
+    margin-left: 5rem;;
+    margin-top: 6rem;
+  }
+
+  .skills-container {
+    text-shadow: 5px 5px 8px black;
+    padding: 6rem;
+  }
+
+  .skills {
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+  }
 
 
 
