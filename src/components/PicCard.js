@@ -5,16 +5,17 @@ import Family from '../../src/images/Familyc.jpg';
 const PicCard = () => {
     return (
             <div className='container-fluid'>
-                <div className='row gy-5'>
+                <div className='row'>
                     <div className='col'>
                         <div className='family_card'>
                             <div>
                             <div className='d-flex'>
-                                <img src={Family} className='family' alt='Family Picture at birthday party for Liam' height='620' />
+                                <img src={Family} className='family rounded' alt='Family Picture at birthday party for Liam' height='620' />
                             </div>
                             </div>
                         </div>
                     </div>
+                    
                     <div className='col'>
                         <div className='bio-container'>
                            <div className=''>

@@ -12,19 +12,19 @@ const Footer = () => {
                             <h2>Contact</h2>
                         </div>
                         <div className='contact'>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#66C40E' }} href='#'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#66C40E' }} href='tel:+13853155788'>
                                 <FaPhoneAlt className='icon' />
                             </MDBBtn>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#C40E0E' }} href='#'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#C40E0E' }} href='mailto:derekewell@gmail.com'>
                                 <FaRegEnvelope className='icon' />
                             </MDBBtn>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='http://www.linkedin.com/in/derek-ewell'>
                                 <FaLinkedin className='icon' />
                             </MDBBtn>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#333333' }} href='#'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#333333' }} href='http://www.github.com/drewell7'>
                                 <FaGithub className='icon' />
                             </MDBBtn>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='http://www.facebook.com/derek.ewell'>
                                 <FaFacebook className='icon' />
                             </MDBBtn>
                         </div>

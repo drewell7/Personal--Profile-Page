@@ -2,7 +2,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        
+        <div>
             <header className='header'>
                 <div className='title-container'>
                     <div>
@@ -11,7 +11,6 @@ const Header = () => {
                     <div className='container fluid'>
                         <div className='row'>
                             <div className='col'>
-
                             </div>
                             <div className='col'>
                                 <div className='subtitle-container'>
@@ -25,7 +24,8 @@ const Header = () => {
                     </div>
                 </div>
             </header>
-            
+           
+        </div>
     );
 };
 

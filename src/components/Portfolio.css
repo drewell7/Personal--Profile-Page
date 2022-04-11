@@ -1,11 +1,11 @@
 .portfolioSection {
-    height: 10rem;
+    height: 40rem;
     text-align: center;
     align-items: center;
     background-color: #003049;
 }
 
 .portfolioTitle {
-    padding-top: 3rem;
+    padding-top: 5rem;
     color: white;
 }

@@ -1,52 +1,53 @@
 .family {
-  width: 25rem;
-  height: 30rem;
+  width: 20rem;
+  height: 25rem;
 }
 
 .family_card {
   
   display: flex;
-  width: 26rem;
-  height: 31rem;
+  width: 21rem;
+  height: 26rem;
   border: 1px solid #ececec;
   background-color: #003049;
   color: white;
   border-radius: 12px;
   align-items: center;
   justify-content: center;
-  margin: 4rem;
+  margin: 6rem;
   box-shadow: 0px 0px 50px black;
 }
 
 .bio-container {
   text-shadow: 5px 5px 8px black;
-  padding: 2rem;
+  margin: 4rem;
 }
 
 .bio {
   color: white;
   font-size: 25px;
   font-weight: 500;
+  padding: 2rem;
 }
 
 .cert_card {
     
     display: flex;
     flex-direction: column;
-    width: 27rem;
-    height: 34rem;
+    width: 21rem;
+    height: 27rem;
     border: 1px solid #ececec;
     background-color: #003049;
     color: white;
     border-radius: 12px;
     align-items: center;
     justify-content: center;
-    margin: 4rem;
+    margin: 6rem;
     box-shadow: 0px 0px 50px black;
   }
 
   .certificate {
-    width: 25rem;
+    width: 20rem;
   }
 
   .htmlcssjs {
@@ -93,8 +94,9 @@
   }
 
   .logos-container {
-    margin-left: 5rem;;
+    margin-left: 1.5rem;;
     margin-top: 6rem;
+    align-content: center;
   }
 
   .skills-container {
