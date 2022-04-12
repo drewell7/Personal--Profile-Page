@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 
 .header {
-    background-color: #161a1d;
+    background: rgba(40, 44, 52, 0.7);
     height: 240px;
-    
     margin: 0;
     padding: 0;
-    
+  }
+
+  .headBg {
+    background-size: fill;
   }
 
 .title {

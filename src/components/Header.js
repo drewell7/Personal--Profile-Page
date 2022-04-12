@@ -1,5 +1,6 @@
 import './Header.css';
 
+
 const Header = () => {
     return (
         <div>
@@ -25,7 +26,7 @@ const Header = () => {
                 </div>
             </header>
            
-        </div>
+            </div>
     );
 };
 
