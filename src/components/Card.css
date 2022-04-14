@@ -21,6 +21,8 @@
 .bio-container {
   text-shadow: 5px 5px 8px black;
   margin: 4rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .bio {
@@ -28,6 +30,8 @@
   font-size: 25px;
   font-weight: 500;
   padding: 2rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .cert_card {
@@ -48,6 +52,8 @@
 
   .certificate {
     width: 20rem;
+    align-items: center;
+  justify-content: center;
   }
 
   .htmlcssjs {
