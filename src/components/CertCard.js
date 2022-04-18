@@ -9,7 +9,8 @@ const CertCard = () => {
             <div className='col'>
                 
                     <div className='skills-container'>
-                        <p className='skills'>Tools of the trade. I started my coding journey at NuCamp but I continue to learn more every day.</p>
+                        <p className='skills'>Tools of the trade. I started my coding journey at NuCamp but I continue to learn more and more every day. 
+                        I am proficient in each of these tools and I continue to add to my toolbox.</p>
                     </div>
                 
                 <div className='row'>

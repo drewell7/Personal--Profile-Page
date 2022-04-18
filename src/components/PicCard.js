@@ -4,7 +4,7 @@ import Family from '../../src/images/Familyc.jpg';
 
 const PicCard = () => {
     return (
-            <div className='container-fluid'>
+            <div className='pt-5 fluid'>
                 <div className='row'>
                     <div className='col'>
                         <div className='family_card'>
