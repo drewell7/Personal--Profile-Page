@@ -74,14 +74,29 @@
     color: #0B74B8;
   }
 
+  .cssLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
+  }
+
   .htmlLogo {
     font-size: 80pt;
     color: #E54D26;
   }
 
+  .htmlLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
+  }
+
   .jsLogo {
     font-size: 80pt;
     color: #FFD93A;
+  }
+
+  .jsLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
   }
 
   .bstrapLogo {
@@ -90,14 +105,29 @@
     color: #8709FB;
   }
 
+  .bstrapLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
+  }
+
   .reactLogo {
     font-size: 80pt;
     color: #61dafb;
   }
 
+  .reactLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
+  }
+
   .nodeLogo {
     font-size: 80pt;
     color: #3C873A;
+  }
+
+  .nodeLogo:hover {
+    transform: rotateY(360deg);
+    transition: 1s;
   }
 
   .logos-container {

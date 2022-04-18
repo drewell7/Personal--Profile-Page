@@ -12,9 +12,9 @@ const Footer = () => {
                             <h2>Contact</h2>
                         </div>
                         <div className='contact'>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#66C40E' }} href='tel:+13853155788'>
-                                <FaPhoneAlt className='icon' />
-                            </MDBBtn>
+                                <MDBBtn className='m-1' style={{ backgroundColor: '#66C40E' }} href='tel:+13853155788'>
+                                    <FaPhoneAlt className='icon' />
+                                </MDBBtn>
                             <MDBBtn className='m-1' style={{ backgroundColor: '#C40E0E' }} href='mailto:derekewell@gmail.com'>
                                 <FaRegEnvelope className='icon' />
                             </MDBBtn>

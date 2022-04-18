@@ -1,4 +1,6 @@
 import './Portfolio.css';
+import ReactNucamp from '../../src/images/ReactNuCampSite.png';
+import BootcampSite from '../../src/images/BootcampSite.png';
 
 const PortfolioSection = () => {
     return (
@@ -11,20 +13,21 @@ const PortfolioSection = () => {
                 <div className='pt-5 fluid'>
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                     <div class="col">
-                        <div class="card">
-                        <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp" class="card-img-top" alt="Hollywood Sign on The Hill"/>
+                        <div class="card h-100">
+                        <img src={ReactNucamp} class="card-img-top" alt="Hollywood Sign on The Hill"/>
                         <div class="card-body">
                             <h5 class="card-title">Portfolio Project 1</h5>
                             <p class="card-text">
                             This is a longer card with supporting text below as a natural lead-in to
                             additional content.
                             </p>
+                            <button type="button" class="btn btn-primary">Github repository</button>
                         </div>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card">
-                        <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/042.webp" class="card-img-top" alt="Palm Springs Road"/>
+                        <div class="card h-100">
+                        <img src={BootcampSite} class="card-img-top" alt="Palm Springs Road"/>
                         <div class="card-body">
                             <h5 class="card-title">Portfolio Project 2</h5>
                             <p class="card-text">
@@ -35,7 +38,7 @@ const PortfolioSection = () => {
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card">
+                        <div class="card h-100">
                         <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/043.webp" class="card-img-top" alt="Los Angeles Skyscrapers"/>
                         <div class="card-body">
                             <h5 class="card-title">Portfolio Project 3</h5>
@@ -44,7 +47,7 @@ const PortfolioSection = () => {
                         </div>
                     </div>
                     <div class="col">
-                        <div class="card">
+                        <div class="card h-100">
                         <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/044.webp" class="card-img-top" alt="Skyscrapers"/>
                         <div class="card-body">
                             <h5 class="card-title">Portfolio Project 4</h5>

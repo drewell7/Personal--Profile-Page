@@ -8,14 +8,9 @@ const PicCard = () => {
                 <div className='row'>
                     <div className='col'>
                         <div className='family_card'>
-                            <div>
-                            <div className='d-flex'>
-                                <img src={Family} className='family rounded' alt='Family Picture at birthday party for Liam' height='620' />
-                            </div>
-                            </div>
-                        </div>
+                        <img src={Family} className='family rounded' alt='Family Picture at birthday party for Liam' height='620' />
                     </div>
-                    
+                    </div>
                     <div className='col'>
                         <div className='bio-container'>
                            <div className=''>
