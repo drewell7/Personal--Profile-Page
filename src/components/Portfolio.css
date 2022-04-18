@@ -6,7 +6,9 @@
 }
 
 .portfolioTitle {
-    padding-top: 3rem;
+    font-size: 3rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem; 
     color: white;
 }
 

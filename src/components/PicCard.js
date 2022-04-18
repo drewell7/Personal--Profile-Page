@@ -15,7 +15,7 @@ const PicCard = () => {
                         <div className='bio-container'>
                            <div className=''>
                                 <p className='bio'>Hello, I am a web developer focused on creating responsive, mobile first websites and apps.
-                                I have graduated from the NuCamp Coding Bootcamp where I completed classes in HTML, CSS and JavaScript. As well as Bootcamp, React and React Native.
+                                I have graduated from the NuCamp Coding Bootcamp where I completed classes in HTML, CSS and JavaScript, as well as Bootstrap, React and React Native.
                                 When I am not coding I enjoy making music with Ableton and spending time with my family. My son and I love playing 
                                 video games together and he's become a big Star Wars fan like his dad.</p>
                             </div>
