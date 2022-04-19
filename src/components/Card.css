@@ -56,7 +56,7 @@
   .certificate {
     width: 20rem;
     align-items: center;
-  justify-content: center;
+    justify-content: center;
   }
 
   .htmlcssjs {
@@ -79,7 +79,7 @@
 
   .cssLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .htmlLogo {
@@ -89,7 +89,7 @@
 
   .htmlLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .jsLogo {
@@ -99,7 +99,7 @@
 
   .jsLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .bstrapLogo {
@@ -110,7 +110,7 @@
 
   .bstrapLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .reactLogo {
@@ -120,7 +120,7 @@
 
   .reactLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .nodeLogo {
@@ -130,7 +130,7 @@
 
   .nodeLogo:hover {
     transform: rotateY(360deg);
-    transition: 1s;
+    transition-duration: 1s;
   }
 
   .logos-container {

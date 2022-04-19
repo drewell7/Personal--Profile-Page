@@ -6,12 +6,12 @@
 
 .m-1:hover {
     opacity: 0.5;
-    transition: 800ms;
+    transition-duration: 800ms;
 }
 
 .m-1:hover .icon {
     transform: scale(1.2);
-    transition: 800ms;
+    transition-duration: 800ms;
 }
 
 .icon {
@@ -21,7 +21,7 @@
 .rLogo {
     font-size: 20pt;
     color: #61dafb;
-    transition: transform 2s;
+    transition-duration: 2s;
 }
 
   .rLogo:hover {
