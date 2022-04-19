@@ -24,7 +24,7 @@ const Footer = () => {
                             <MDBBtn className='m-1' style={{ backgroundColor: '#333333' }} href='http://www.github.com/drewell7'>
                                 <FaGithub className='icon' />
                             </MDBBtn>
-                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='http://www.facebook.com/derek.ewell'>
+                            <MDBBtn className='m-1'  style={{ backgroundColor: '#3b5998' }} href='http://www.facebook.com/derek.ewell'>
                                 <FaFacebook className='icon' />
                             </MDBBtn>
                         </div>

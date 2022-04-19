@@ -77,60 +77,41 @@
     color: #0B74B8;
   }
 
-  .cssLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
+
 
   .htmlLogo {
     font-size: 80pt;
     color: #E54D26;
   }
 
-  .htmlLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
+
 
   .jsLogo {
     font-size: 80pt;
     color: #FFD93A;
   }
 
-  .jsLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
+
 
   .bstrapLogo {
     font-size: 80pt;
     color: #8709FB;
   }
 
-  .bstrapLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
+
 
   .reactLogo {
     font-size: 80pt;
     color: #61dafb;
   }
 
-  .reactLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
 
   .nodeLogo {
     font-size: 80pt;
     color: #3C873A;
   }
 
-  .nodeLogo:hover {
-    transform: rotateY(360deg);
-    
-  }
+
 
   .logos-container {
     margin-left: 1.5rem;;
