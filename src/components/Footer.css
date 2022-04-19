@@ -21,11 +21,11 @@
 .rLogo {
     font-size: 20pt;
     color: #61dafb;
-    transition-duration: 2s;
 }
 
   .rLogo:hover {
     transform: rotate(360deg);
+    transition-duration: 4000ms;
   }
 
 .contactTitle {
