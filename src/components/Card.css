@@ -79,7 +79,7 @@
 
   .cssLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .htmlLogo {
@@ -89,7 +89,7 @@
 
   .htmlLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .jsLogo {
@@ -99,18 +99,17 @@
 
   .jsLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .bstrapLogo {
     font-size: 80pt;
-    
     color: #8709FB;
   }
 
   .bstrapLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .reactLogo {
@@ -120,7 +119,7 @@
 
   .reactLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .nodeLogo {
@@ -130,7 +129,7 @@
 
   .nodeLogo:hover {
     transform: rotateY(360deg);
-    transition-duration: 1000ms;
+    
   }
 
   .logos-container {

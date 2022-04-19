@@ -6,12 +6,10 @@
 
 .m-1:hover {
     opacity: 0.5;
-    transition-duration: 800ms;
 }
 
 .m-1:hover .icon {
     transform: scale(1.2);
-    transition-duration: 800ms;
 }
 
 .icon {
@@ -25,7 +23,7 @@
 
   .rLogo:hover {
     transform: rotate(360deg);
-    transition-duration: 4000ms;
+    
   }
 
 .contactTitle {
