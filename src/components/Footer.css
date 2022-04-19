@@ -21,7 +21,12 @@
 .rLogo {
     font-size: 20pt;
     color: #61dafb;
+    transition: transform 2s;
 }
+
+  .rLogo:hover {
+    transform: rotate(360deg);
+  }
 
 .contactTitle {
     text-align: center;
